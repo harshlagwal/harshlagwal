@@ -1,62 +1,62 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=180&section=header&text=Harsh%20Lagwal&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=60&descSize=18" width="100%"/>
+
 # Harsh Lagwal
 
 ### AI Engineer · Full-Stack Developer · Builder
 
-I build **AI-powered products, developer tools, and production-ready web applications.**
-
-**AI / GenAI · Full-Stack · Machine Learning · Developer Tools**
+**Building AI-powered products, developer tools & production-ready web applications.**
 
 <br>
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:YOUR_EMAIL)
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/harshlagwal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harshlagwal&style=flat-square&color=6366f1&label=Profile%20Views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student and developer focused on building practical software at the intersection of **Artificial Intelligence, full-stack engineering, and developer productivity**.
+I'm a **Computer Science Engineering student and developer** focused on building practical software at the intersection of **Artificial Intelligence, full-stack engineering, and developer productivity**.
 
-I enjoy turning ideas into usable products — from AI-powered document intelligence and career platforms to developer tools and real-world digital experiences.
+I enjoy turning ideas into usable products — from **AI-powered document intelligence and career platforms** to **developer tools and real-world digital experiences**.
 
-My work spans **Generative AI, RAG, Machine Learning, React, TypeScript, Python, FastAPI, Node.js, PostgreSQL, MongoDB, and modern web development**.
+My current technical direction revolves around:
 
-I'm particularly interested in building software that is not only technically interesting, but also **useful, maintainable, and accessible to real users**.
-
----
-
-## 🧩 What I Build
-
-### 🤖 AI & GenAI Systems
-
-RAG pipelines, LLM-powered applications, document intelligence, intelligent assistants, and AI-driven automation.
-
-### ⚙️ Full-Stack Products
-
-Modern web applications with React, TypeScript, Python/FastAPI, Node.js, REST APIs, authentication, databases, and responsive interfaces.
-
-### 🛠️ Developer Tools
-
-Tools designed to make programming, debugging, learning, and developer workflows more visual, understandable, and productive.
-
-### 🧠 Machine Learning
-
-Prediction systems, classification models, data processing, visualization, and practical ML applications.
-
-### 🌐 Real-World Digital Products
-
-Business platforms and user-focused web experiences built around real requirements and practical workflows.
+* 🤖 Generative AI & LLM applications
+* 🧠 Machine Learning
+* 🔎 Retrieval-Augmented Generation
+* ⚙️ Full-Stack Engineering
+* 🛠️ Developer Productivity Tools
+* 🗄️ Backend & Database Architecture
+* 🌐 Real-world digital products
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-> A selection of projects that best represent my current engineering direction.
+<div align="center">
 
----
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### ⚡ AlgoFlow
 
@@ -64,12 +64,19 @@ Business platforms and user-focused web experiences built around real requiremen
 
 A developer-focused tool that transforms code into interactive visual execution flows, helping users understand program logic, control flow, algorithms, loops, and complexity.
 
-**Tech:** TypeScript · VS Code · React · Algorithms · AI-assisted Analysis
+**Tech**
 
-**Why it matters:**
-A developer productivity project focused on making complex programming concepts easier to understand visually.
+<img src="https://skillicons.dev/icons?i=ts,react,vscode" />
 
----
+<br>
+
+<a href="https://github.com/harshlagwal/AlgoFlow-">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🧠 CareerCraft AI
 
@@ -77,188 +84,272 @@ A developer productivity project focused on making complex programming concepts 
 
 A full-stack career intelligence platform combining machine learning predictions, market insights, resume analysis, and personalized career roadmaps.
 
-**Tech:** React · FastAPI · PostgreSQL · SQLAlchemy · Scikit-learn · JWT
+**Tech**
 
-**Engineering focus:**
-Full-stack architecture, ML integration, authentication, structured data workflows, and personalized recommendations.
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,python" />
 
----
+<br>
 
-### 🏗️ AI DDR Report Generator
+<a href="https://github.com/harshlagwal/CareerCraft-AI">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏗️ AI DDR Generator
 
 **RAG-Powered Document Intelligence**
 
-An AI system that processes technical inspection and thermal reports, retrieves relevant evidence, and generates structured diagnostic reports using Retrieval-Augmented Generation.
+Processes technical inspection and thermal reports, retrieves relevant evidence, and generates structured diagnostic reports using Retrieval-Augmented Generation.
 
-**Tech:** Python · LangChain · ChromaDB · HuggingFace · Groq · RAG
+**Tech**
 
-**Engineering focus:**
-Document processing, semantic retrieval, embeddings, evidence mapping, and LLM-powered report generation.
+<img src="https://skillicons.dev/icons?i=python" />
 
----
+`LangChain` · `ChromaDB` · `HuggingFace` · `Groq`
+
+<br>
+
+<a href="https://github.com/harshlagwal/Ai-ddr-report-generator">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🛡️ Internship Validation Portal
 
 **AI-Proctored Administration Platform**
 
-A full-stack administration platform for interview monitoring, candidate verification, risk assessment, analytics, and administrative workflows.
+A full-stack platform for candidate verification, interview monitoring, risk assessment, analytics, and administrative workflows.
 
-**Tech:** React · Node.js · Express · PostgreSQL · Prisma · JWT
+**Tech**
 
-**Engineering focus:**
-Authentication, authorization, audit logging, database architecture, security middleware, analytics, and reporting.
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,prisma" />
 
----
+<br>
+
+<a href="https://github.com/harshlagwal/Admin-Internship-Data-Validation-Portal">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌍 WanderLust.ai
 
 **AI-Powered Travel Planning Platform**
 
-A full-stack travel application combining AI itinerary generation, authentication, trip management, maps, analytics, and administrative tools.
+A full-stack travel application combining AI itinerary generation, authentication, trip management, maps, analytics, and administration.
 
-**Tech:** React · TypeScript · Node.js · Express · MongoDB · Gemini
+**Tech**
 
-**Engineering focus:**
-AI integration, API architecture, user authentication, persistent trip data, maps, analytics, and admin workflows.
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,mongodb" />
+
+`Gemini`
+
+<br>
+
+<a href="https://github.com/harshlagwal/Wanderlust">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏢 ATC Constructions
+
+**Real-World Business Platform**
+
+A modern digital platform focused on construction material supply, logistics, quotation requests, project information, and customer communication.
+
+**Tech**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<br>
+
+<a href="https://github.com/harshlagwal/ATC-Constructions-">
+<img src="https://img.shields.io/badge/View%20Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🧰 Technical Stack
+# 🧰 Technology Stack
+
+<div align="center">
 
 ### Languages
 
-`Python` · `TypeScript` · `JavaScript` · `SQL`
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql" />
 
 ### AI / Machine Learning
 
-`Generative AI` · `RAG` · `LLM APIs` · `Scikit-learn` · `TensorFlow` · `PyTorch`
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Applications-111827?style=for-the-badge&logo=google&logoColor=white"/>
 
 ### Frontend
 
-`React` · `Vite` · `Tailwind CSS` · `HTML` · `CSS`
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
 
 ### Backend
 
-`FastAPI` · `Node.js` · `Express` · `REST APIs`
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 
 ### Databases
 
-`PostgreSQL` · `MongoDB` · `ChromaDB`
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 
-### Engineering
+### Cloud · DevOps · Tools
 
-`Git` · `GitHub` · `JWT` · `Authentication` · `API Integration` · `Security`
+<img src="https://skillicons.dev/icons?i=git,github,azure,vercel,netlify,bash" />
 
-### Cloud & Deployment
-
-`Microsoft Azure` · `Vercel` · `Netlify`
+</div>
 
 ---
 
 # 🏗️ Engineering Capabilities
 
-* Full-stack application architecture
-* REST API development
-* AI and LLM integration
-* Retrieval-Augmented Generation pipelines
-* Document processing and semantic search
-* Authentication and authorization
-* Relational and NoSQL database integration
-* Admin dashboards and analytics
-* Responsive frontend development
-* Third-party API integration
-* Performance optimization
-* Accessibility-focused development
-* Security-conscious application design
-* Git-based development workflows
+<div align="center">
+
+|       AI & Data       |      Full-Stack      |   Engineering   |
+| :-------------------: | :------------------: | :-------------: |
+|     Generative AI     |  React Applications  |    REST APIs    |
+|     RAG Pipelines     |   FastAPI / Node.js  |  Authentication |
+|    LLM Integration    | PostgreSQL / MongoDB |  Authorization  |
+| Document Intelligence |   Admin Dashboards   |     Security    |
+|    Machine Learning   |     Responsive UI    | API Integration |
+|    Semantic Search    | Third-Party Services | Database Design |
+
+</div>
 
 ---
 
 # 🎯 Current Focus
 
-```text
-→ Practical AI / GenAI applications
-→ RAG & document intelligence
-→ Developer productivity tools
-→ Full-stack system architecture
-→ AI-powered automation
-→ Production-ready UX
-→ Better deployment, security & scalability
-```
+<div align="center">
+
+`AI / GenAI`   `RAG`   `Developer Tools`   `Full-Stack Systems`   `Automation`
+
+<br><br>
+
+Building practical AI systems, improving full-stack architecture, and creating software that solves real problems.
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/harshlagwal">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=harshlagwal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=harshlagwal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshlagwal/harshlagwal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+
+</div>
 
 ---
 
 # 🌐 Real-World Builds
 
+<div align="center">
+
 ### 🏢 ATC Constructions
 
-A modern business platform focused on construction material supply, logistics, quotation requests, project information, and customer communication.
-
-**Focus:** Business workflows · Responsive UI · Product presentation · Real-world requirements
-
----
+Construction material supply and logistics platform with quotation workflows and business-focused digital experiences.
 
 ### 🛕 Sheetla Mata Mandir
 
-A modern bilingual digital platform combining cultural information, visitor resources, gallery experiences, donation workflows, and accessibility-focused UX.
+Bilingual digital platform focused on visitor information, cultural content, gallery experiences, donation workflows, accessibility, and performance.
 
-**Focus:** React · TypeScript · Responsive Design · Accessibility · Performance · Payment UX
-
----
-
-# 📊 GitHub Activity
-
-I believe contributions should represent **real engineering work**, not activity created just to make a graph look busy.
-
-My GitHub activity reflects:
-
-* Building features
-* Fixing problems
-* Improving existing systems
-* Experimenting with new technologies
-* Writing documentation
-* Learning through implementation
+</div>
 
 ---
 
-# 🧠 How I Approach Development
+# 💡 Development Philosophy
 
-```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Test
-   ↓
-Improve
-   ↓
-Ship
-```
+<div align="center">
 
-I try to focus on **why a system should be built a certain way**, not just how to make it work.
+### Understand → Design → Build → Test → Improve → Ship
+
+<br>
+
+> **Build useful things. Learn deeply. Ship consistently.**
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-I'm interested in **AI engineering, full-stack development, developer tools, and building useful products**.
+<div align="center">
 
-If you're working on an interesting problem, building something ambitious, or looking for someone to collaborate with, feel free to connect.
+I'm interested in **AI Engineering, Full-Stack Development, Developer Tools, and building useful products.**
 
-**LinkedIn:** YOUR_LINKEDIN_URL
+<br>
 
-**Portfolio:** YOUR_PORTFOLIO_URL
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Email:** YOUR_EMAIL
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+**Harsh Lagwal · AI Engineer · Full-Stack Developer**
+
+</div>
 
 ---
 
 <div align="center">
 
-### Build useful things. Learn deeply. Ship consistently.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer"/>
 
 </div>
