@@ -19,7 +19,7 @@
 
 ## About Me
 
-I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, retrieval-augmented generation, full-stack engineering, and client-focused web development.
+I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, retrieval-augmented generation, full-stack development, and product engineering.
 
 - **Focus:** GenAI, RAG pipelines, LLM applications, product engineering
 - **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS, Redux, Three.js
@@ -165,8 +165,8 @@ A playful coding platform designed to make learning programming more engaging. I
 ## GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="Harsh Lagwal's GitHub statistics">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical&hide_progress=false&size_weight=0.5&count_weight=0.5" alt="Top languages">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="Harsh Lagwal's GitHub statistics">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical&hide_progress=false&size_weight=0.5&count_weight=0.5" alt="Top languages">
 </p>
 
 ### Languages & Tools
