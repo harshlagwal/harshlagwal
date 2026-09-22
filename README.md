@@ -1,17 +1,24 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2600&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=AI+Developer;Full-Stack+Engineer;Product+Builder;Turning+Ideas+into+Useful+Software" alt="Typing SVG" />
+
 # Harsh Lagwal
 
-### AI Developer · Full-Stack Engineer · Builder of Practical Products
-
 <p>
-  <a href="https://portfolio-harsh-lagwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/harshlagwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:harshlagwal123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/harshlagwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://portfolio-harsh-lagwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/harshlagwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:harshlagwal123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/harshlagwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p><em>Building AI systems, developer tools, and user-focused web products.</em></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-%F0%9F%A6%8A-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-%F0%9F%94%8A-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full-Stack%20Builder-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Products%20That%20Ship-%F0%9F%9A%80-F59E0B?style=flat-square" />
+</p>
+
+<p><em>Building AI systems, developer tools, and user-focused web products that solve real problems.</em></p>
 
 </div>
 
@@ -19,7 +26,7 @@
 
 ## About Me
 
-I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, retrieval-augmented generation, full-stack development, and product engineering.
+I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, RAG pipelines, LLM applications, and full-stack product engineering.
 
 - **Focus:** GenAI, RAG pipelines, LLM applications, product engineering
 - **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS, Redux, Three.js
@@ -47,37 +54,6 @@ Professional websites designed and developed for clients:
 |---|---|---|
 | **Sunny Thakur** | Real estate website | [View Sunny Thakur Real Estate](https://sunny-thakur-real-estate.vercel.app/) |
 | **Amit Thakur** | Construction company website | [View ATC Constructions](https://atc-constructions.vercel.app/) |
-
----
-
-## Technical Stack
-
-### Languages & Frameworks
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### AI, Machine Learning & Data
-
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Backend, Databases & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -162,25 +138,50 @@ A playful coding platform designed to make learning programming more engaging. I
 
 ---
 
+## Tech Stack
+
+### Languages & Frameworks
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### AI, Machine Learning & Data
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Backend, Databases & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
 ## GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="Harsh Lagwal's GitHub statistics">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical&hide_progress=false&size_weight=0.5&count_weight=0.5" alt="Top languages">
-</p>
-
-### Languages & Tools
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,react,vite,tailwind,nodejs,express,fastapi,postgres,mongodb,git,vscode&perline=7" alt="Icons for programming languages and tools"></a>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical&hide_progress=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshlagwal&theme=radical&hide_border=true" alt="GitHub contribution streak">
+  <img src="https://streak-stats.demolab.com?user=harshlagwal&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshlagwal&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshlagwal&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution graph" />
 </p>
 
 ---
@@ -195,7 +196,7 @@ A playful coding platform designed to make learning programming more engaging. I
 
 ---
 
-## Let's Connect
+## Let’s Connect
 
 I am open to collaborations, freelance projects, internships, and interesting problems in AI and full-stack development.
 
