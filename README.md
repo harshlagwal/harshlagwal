@@ -5,6 +5,7 @@
 ### AI Developer · Full-Stack Engineer · Builder of Practical Products
 
 <p>
+  <a href="https://portfolio-harsh-lagwal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/harshlagwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:harshlagwal123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/harshlagwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -18,13 +19,34 @@
 
 ## About Me
 
-I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, retrieval-augmented generation, machine learning, full-stack web development, and developer tooling.
+I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, retrieval-augmented generation, full-stack engineering, and client-focused web development.
 
 - **Focus:** GenAI, RAG pipelines, LLM applications, product engineering
 - **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS, Redux, Three.js
 - **Backend:** FastAPI, Node.js, Express, REST APIs
 - **Data & AI:** Python, scikit-learn, LangChain, Streamlit, Groq, PostgreSQL, MongoDB
 - **Currently building:** AI platforms, developer tools, and products people can actually use
+
+---
+
+## Professional Links
+
+| Platform | Description | Link |
+|---|---|---|
+| **Portfolio** | Explore my work, skills, and experience | [Visit Portfolio](https://portfolio-harsh-lagwal.vercel.app/) |
+| **Freelance Studio** | Websites and digital products built for clients | [Visit Freelance Studio](https://harsh-builds-five.vercel.app/) |
+| **Master AI Startup** | AI and career learning platform | [Visit Master AI](https://master-ai-iota.vercel.app/) |
+
+---
+
+## Client Work
+
+Professional websites designed and developed for clients:
+
+| Client | Project | Link |
+|---|---|---|
+| **Sunny Thakur** | Real estate website | [View Sunny Thakur Real Estate](https://sunny-thakur-real-estate.vercel.app/) |
+| **Amit Thakur** | Construction company website | [View ATC Constructions](https://atc-constructions.vercel.app/) |
 
 ---
 
@@ -75,7 +97,7 @@ A machine-learning-powered career platform that combines career predictions, mar
 ### [WanderLust.ai](https://github.com/harshlagwal/WanderLust.ai) · [Backend](https://github.com/harshlagwal/Wanderlust-backend)
 **AI-powered travel planning platform**
 
-A full-stack travel experience that helps users plan trips, generate intelligent itineraries, manage travel information, and explore destinations through a modern interface. The platform includes authentication, trip management, and administrative analytics.
+A full-stack travel experience that helps users plan trips, generate intelligent itineraries, manage travel information, and explore destinations through a modern interface.
 
 **Highlights:** AI itinerary planning · Authentication · Trip management · Admin analytics · Responsive UI
 
@@ -97,7 +119,7 @@ A developer tool that transforms selected code into animated, step-by-step flowc
 ### [AI DDR Report Generator](https://github.com/harshlagwal/Ai-ddr-report-generator)
 **RAG-powered document intelligence application**
 
-An AI application that combines inspection and thermal reports to generate structured Detailed Diagnostic Reports. It uses retrieval-augmented generation to extract relevant information and produce consistent, useful summaries.
+An AI application that combines inspection and thermal reports to generate structured Detailed Diagnostic Reports using retrieval-augmented generation.
 
 **Highlights:** Multi-document processing · RAG pipeline · Structured report generation · Diagnostic insights
 
@@ -105,7 +127,7 @@ An AI application that combines inspection and thermal reports to generate struc
 
 ---
 
-### [Master AI](https://github.com/harshlagwal/Master-Ai)
+### [Master AI](https://github.com/harshlagwal/Master-Ai) · [Live Startup Platform](https://master-ai-iota.vercel.app/)
 **Live AI and career masterclass platform**
 
 An interactive learning platform created for a seven-day AI and career masterclass. It organizes sessions, learning resources, and career guidance into a clear and engaging experience for learners.
@@ -143,8 +165,14 @@ A playful coding platform designed to make learning programming more engaging. I
 ## GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub statistics">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="Harsh Lagwal's GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical&hide_progress=false&size_weight=0.5&count_weight=0.5" alt="Top languages">
+</p>
+
+### Languages & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,react,vite,tailwind,nodejs,express,fastapi,postgres,mongodb,git,vscode&perline=7" alt="Icons for programming languages and tools"></a>
 </p>
 
 <p align="center">
@@ -169,8 +197,10 @@ A playful coding platform designed to make learning programming more engaging. I
 
 ## Let's Connect
 
-I am open to collaborations, internships, and interesting problems in AI and full-stack development.
+I am open to collaborations, freelance projects, internships, and interesting problems in AI and full-stack development.
 
+- **Portfolio:** [portfolio-harsh-lagwal.vercel.app](https://portfolio-harsh-lagwal.vercel.app/)
+- **Freelance Studio:** [harsh-builds-five.vercel.app](https://harsh-builds-five.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/harshlagwal](https://www.linkedin.com/in/harshlagwal)
 - **Email:** [harshlagwal123@gmail.com](mailto:harshlagwal123@gmail.com)
 - **GitHub:** [github.com/harshlagwal](https://github.com/harshlagwal)
