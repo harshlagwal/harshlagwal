@@ -1,183 +1,178 @@
+<div align="center">
+
 # Harsh Lagwal
 
-## Full Stack Developer | Blockchain Enthusiast | Problem Solver
+### AI Developer · Full-Stack Engineer · Builder of Practical Products
 
-### About Me
+<p>
+  <a href="https://www.linkedin.com/in/harshlagwal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:harshlagwal123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/harshlagwal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-Experienced Full Stack Developer specializing in building modern web applications with a focus on performance, scalability, and user experience. Proficient in JavaScript ecosystem with hands-on experience in blockchain technology and decentralized applications.
+<p><em>Building AI systems, developer tools, and user-focused web products.</em></p>
+
+</div>
 
 ---
 
-## Technical Skills
+## About Me
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I am an AI Developer from **Hamirpur, Himachal Pradesh, India**, focused on turning ideas into useful, reliable, and intuitive products. My work spans generative AI, retrieval-augmented generation, machine learning, full-stack web development, and developer tooling.
+
+- **Focus:** GenAI, RAG pipelines, LLM applications, product engineering
+- **Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS, Redux, Three.js
+- **Backend:** FastAPI, Node.js, Express, REST APIs
+- **Data & AI:** Python, scikit-learn, LangChain, Streamlit, Groq, PostgreSQL, MongoDB
+- **Currently building:** AI platforms, developer tools, and products people can actually use
+
+---
+
+## Technical Stack
+
+### Languages & Frameworks
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend Development
+### AI, Machine Learning & Data
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Backend, Databases & Tools
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Blockchain & Web3
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### Crypto Tracker Application
-**Technologies:** React.js, API Integration, Real-time Data Processing
+### [CareerCraft AI](https://github.com/harshlagwal/CareerCraft-AI)
+**Data-driven career intelligence platform**
 
-A comprehensive cryptocurrency tracking platform providing real-time market data, price charts, and portfolio management capabilities. Features include live price updates, historical data visualization, and multi-currency support.
+A machine-learning-powered career platform that combines career predictions, market intelligence, skill analysis, and personalized learning roadmaps to help users make better career decisions.
 
-**Key Features:**
-- Real-time cryptocurrency price tracking
-- Interactive charts and data visualization
-- Market trend analysis
-- Responsive design for all devices
+**Highlights:** Career prediction · Market insights · Personalized roadmaps · Data-driven recommendations
+
+`React 19` `Tailwind CSS 4` `FastAPI` `Python` `scikit-learn`
 
 ---
 
-### E-Commerce Platform
-**Technologies:** MERN Stack, Payment Gateway Integration, JWT Authentication
+### [WanderLust.ai](https://github.com/harshlagwal/WanderLust.ai) · [Backend](https://github.com/harshlagwal/Wanderlust-backend)
+**AI-powered travel planning platform**
 
-Full-featured e-commerce solution with complete product management, user authentication, shopping cart functionality, and secure payment processing.
+A full-stack travel experience that helps users plan trips, generate intelligent itineraries, manage travel information, and explore destinations through a modern interface. The platform includes authentication, trip management, and administrative analytics.
 
-**Key Features:**
-- User authentication and authorization
-- Product catalog with search and filtering
-- Shopping cart and checkout system
-- Order management dashboard
-- Secure payment integration
+**Highlights:** AI itinerary planning · Authentication · Trip management · Admin analytics · Responsive UI
+
+`React` `TypeScript` `Node.js` `MongoDB`
 
 ---
 
-### Blockchain-based Decentralized Application
-**Technologies:** Solidity, Web3.js, Ethereum, React
+### [AlgoFlow](https://github.com/harshlagwal/AlgoFlow-)
+**Visual code understanding tool for VS Code**
 
-Developed smart contracts and decentralized applications on Ethereum blockchain, focusing on secure and transparent transaction processing.
+A developer tool that transforms selected code into animated, step-by-step flowcharts. AlgoFlow is designed to make algorithms easier to understand, teach, debug, and explain.
 
-**Key Features:**
-- Smart contract development and deployment
-- Web3 wallet integration
-- Decentralized data storage
-- Transaction tracking and verification
+**Highlights:** Code-to-flowchart visualization · Animated execution steps · VS Code integration · Learning-focused UX
+
+`TypeScript` `VS Code Extension`
 
 ---
 
-### Portfolio Website
-**Technologies:** React.js, Modern CSS, Responsive Design
+### [AI DDR Report Generator](https://github.com/harshlagwal/Ai-ddr-report-generator)
+**RAG-powered document intelligence application**
 
-Personal portfolio showcasing projects, skills, and professional experience with modern animations and interactive elements.
+An AI application that combines inspection and thermal reports to generate structured Detailed Diagnostic Reports. It uses retrieval-augmented generation to extract relevant information and produce consistent, useful summaries.
 
-**Key Features:**
-- Fully responsive design
-- Smooth animations and transitions
-- Project showcase with detailed descriptions
-- Contact form integration
+**Highlights:** Multi-document processing · RAG pipeline · Structured report generation · Diagnostic insights
+
+`Python` `LangChain` `Streamlit` `Groq`
 
 ---
 
-## GitHub Analytics
+### [Master AI](https://github.com/harshlagwal/Master-Ai)
+**Live AI and career masterclass platform**
+
+An interactive learning platform created for a seven-day AI and career masterclass. It organizes sessions, learning resources, and career guidance into a clear and engaging experience for learners.
+
+**Highlights:** Session-based learning · Resource hub · Career guidance · Interactive educational UI
+
+`React 18` `TypeScript` `Vite` `Tailwind CSS`
+
+---
+
+### [CodeChaska](https://github.com/harshlagwal/CodeChaska)
+**Gamified coding and learning experience**
+
+A playful coding platform designed to make learning programming more engaging. It combines challenges, progress tracking, and an approachable interface to encourage consistent practice.
+
+**Highlights:** Coding challenges · Progress-driven learning · Gamification · Modern responsive interface
+
+`React` `TypeScript` `Vite` `Tailwind CSS`
+
+---
+
+## More Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [DevFlow Master](https://github.com/harshlagwal/DevFlow-Master) | Converts code concepts into visual flowcharts for easier understanding. | TypeScript · VS Code |
+| [DidiVerse](https://github.com/harshlagwal/DidiVerse) | An immersive 3D Raksha Bandhan experience built for the web. | React · Three.js |
+| [Safalta Apki Chatbot](https://github.com/harshlagwal/Safalta--Apki-Chatbot) | AI-based career guidance assistant for students and learners. | AI · React |
+| [Object Detection](https://github.com/harshlagwal/Object-Detection) | Computer vision project for detecting objects in visual input. | Python · OpenCV |
+| [Healthcare Chatbot Assistant](https://github.com/harshlagwal/Health-care-chatbot-assistant) | Conversational assistant designed to provide healthcare-related guidance. | AI · Python |
+| [Bhagwat Geeta AI](https://github.com/harshlagwal/Bhagwat-Geeta-Ai) | AI-powered spiritual guide for exploring the teachings of the Bhagavad Gita. | AI · Python |
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshlagwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshlagwal&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=harshlagwal&theme=radical&hide_border=true" alt="GitHub contribution streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshlagwal&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshlagwal&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## Professional Experience
-
-**Full Stack Development**
-- Designed and developed responsive web applications using modern frameworks
-- Implemented RESTful APIs and microservices architecture
-- Optimized application performance and database queries
-- Collaborated with cross-functional teams in agile environment
-
-**Blockchain Development**
-- Created and deployed smart contracts on Ethereum network
-- Developed decentralized applications with Web3 integration
-- Implemented secure wallet connectivity and transaction handling
-- Conducted smart contract auditing and testing
-
----
-
-## Current Learning Path
-
-- Advanced TypeScript patterns and best practices
-- Cloud architecture and deployment strategies
-- Advanced blockchain protocols and Layer 2 solutions
-- Microservices architecture and containerization
-- System design and scalability patterns
-
----
-
-## Work Approach
-
-- **Code Quality:** Writing clean, maintainable, and well-documented code
-- **Best Practices:** Following industry standards and design patterns
-- **Problem Solving:** Analytical approach to complex technical challenges
-- **Continuous Learning:** Staying updated with latest technologies and trends
-- **Collaboration:** Strong communication and team collaboration skills
-
----
-
-## Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-harshlagwal-181717?style=for-the-badge&logo=github)](https://github.com/harshlagwal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Lagwal-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshlagwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshlagwal.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshlagwal@example.com)
-
----
-
-## Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshlagwal&color=brightgreen&style=for-the-badge)
-
----
-
-<p align="center">
-  <i>Open to exciting opportunities and collaborations in Full Stack Development and Blockchain Technology</i>
-</p>
-
-<p align="center">
-  <i>"Building the future, one commit at a time"</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshlagwal&theme=react-dark&hide_border=true&area=true" alt="GitHub contribution graph">
 </p>
 
 ---
 
-**Last Updated:** January 2025
+## What I Care About
+
+- Building products that solve real problems
+- Designing simple interfaces for complex workflows
+- Writing maintainable, scalable, and well-documented code
+- Learning deeply and iterating quickly
+- Collaborating on meaningful AI and software projects
+
+---
+
+## Let's Connect
+
+I am open to collaborations, internships, and interesting problems in AI and full-stack development.
+
+- **LinkedIn:** [linkedin.com/in/harshlagwal](https://www.linkedin.com/in/harshlagwal)
+- **Email:** [harshlagwal123@gmail.com](mailto:harshlagwal123@gmail.com)
+- **GitHub:** [github.com/harshlagwal](https://github.com/harshlagwal)
+
+<p align="center"><em>Build useful things. Learn deeply. Ship consistently.</em></p>
