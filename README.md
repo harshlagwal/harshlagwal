@@ -172,11 +172,6 @@ A playful coding platform designed to make learning programming more engaging. I
 ## GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshlagwal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harshlagwal&layout=compact&langs_count=8&hide_border=true&theme=radical&hide_progress=false" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=harshlagwal&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
