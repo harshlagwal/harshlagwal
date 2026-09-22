@@ -4,10 +4,9 @@
 
 ### AI Developer · Full-Stack Engineer · Builder
 
-I build AI-powered products, developer tools, and modern web applications
-with a focus on practical engineering, clean interfaces, and useful user experiences.
+Building AI-powered products, developer tools, and modern web applications.
 
-<br />
+<br/>
 
 <a href="https://github.com/harshlagwal">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -22,22 +21,33 @@ with a focus on practical engineering, clean interfaces, and useful user experie
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=gradient&customColorList=12,14,16,17,18&animation=fadeIn" width="100%"/>
+
+</div>
 
 ---
 
-## About
+## About Me
 
-I'm **Harsh Lagwal**, an AI-focused developer and full-stack engineer interested in building products where **AI, software engineering, and thoughtful UI/UX** come together.
+I'm **Harsh Lagwal**, an AI-focused developer and full-stack engineer who enjoys turning ideas into practical software products.
 
-My work spans from AI-powered applications and LLM workflows to developer tools, dashboards, automation systems, and production-oriented web applications.
+My work sits at the intersection of **Artificial Intelligence, Full-Stack Development, Developer Tools, and Product Engineering**.
+
+I enjoy working across the complete development lifecycle:
 
 ```text
-AI Engineering      → LLM Applications · AI Agents · RAG · AI Workflows
-Full-Stack           → React · Next.js · Node.js · FastAPI
-Backend              → REST APIs · MongoDB · PostgreSQL
-Frontend              → React · TypeScript · Tailwind CSS
-Developer Tools      → VS Code Extensions · Git · GitHub
-Deployment            → Vercel · Netlify
+Idea
+  ↓
+Product & UX
+  ↓
+Architecture
+  ↓
+Development
+  ↓
+AI / API Integration
+  ↓
+Testing & Debugging
+  ↓
+Deployment
